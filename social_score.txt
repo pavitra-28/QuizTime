@@ -1,0 +1,8 @@
+
+pavitra:6
+sharvani:4
+pavitra:5
+asha:3
+pavitra:6
+pavitra:5
+pavitra:6
